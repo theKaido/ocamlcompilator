@@ -1,0 +1,5 @@
+def a;
+while (a) do
+    a = false;
+
+;

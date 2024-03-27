@@ -1,0 +1,10 @@
+def a = 55;
+def b;
+if(a != 5) then
+   while(a != 0) do
+        a = a-1;
+    ; 
+else 
+    b=0;
+return b;
+;

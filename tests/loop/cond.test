@@ -1,0 +1,11 @@
+def a; 
+if(a) then
+
+    a = 5;
+
+else 
+    
+    a = 0;
+
+return a;
+;

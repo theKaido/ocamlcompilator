@@ -1,0 +1,6 @@
+def a = 15000;
+def b = 2000;
+
+def c = a * b;
+
+return c ;
